@@ -104,6 +104,7 @@ colombia.push ({
     salary: 1000,
     
 });
+/*
 colombia.push ({
     name: "Luz",
     salary: 800,
@@ -114,4 +115,4 @@ colombia.push ({
     name: "Jorge",
     salary: 500,
     
-});
+});*/
