@@ -75,4 +75,17 @@ console.log({
 );
 
 
+/*------------ CAPACIDAD DE AHORRO -------------- */
+
+function capAhorro (egresos , ingesos){
+    return egresos < ingesos;
+
+}
+
+/*------------ CAPACIDAD DE ENDEUDAMIENTO -------------- */
+
+function capEndeudamiento (ingresos, gastos ){
+    return (ingresos - gastos) * 0.35 ;
+}
+
 
